@@ -25,7 +25,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/blakephillips/GitHub/learning/Misc/ChuckNorrisIO/app/src/debug/java;/Users/blakephillips/GitHub/learning/Misc/ChuckNorrisIO/app/src/release/kotlin;/Users/blakephillips/GitHub/learning/Misc/ChuckNorrisIO/app/src/release/java;/Users/blakephillips/GitHub/learning/Misc/ChuckNorrisIO/app/src/debugAndroidTest/kotlin;/Users/blakephillips/GitHub/learning/Misc/ChuckNorrisIO/app/src/debugUnitTest/kotlin;/Users/blakephillips/GitHub/learning/Misc/ChuckNorrisIO/app/src/releaseUnitTest/kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/blakephillips/GitHub/ChuckNorrisIO/app/src/debug/java;/Users/blakephillips/GitHub/ChuckNorrisIO/app/src/release/kotlin;/Users/blakephillips/GitHub/ChuckNorrisIO/app/src/release/java;/Users/blakephillips/GitHub/ChuckNorrisIO/app/src/debugAndroidTest/kotlin;/Users/blakephillips/GitHub/ChuckNorrisIO/app/src/debugUnitTest/kotlin;/Users/blakephillips/GitHub/ChuckNorrisIO/app/src/releaseUnitTest/kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>
